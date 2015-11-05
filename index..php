@@ -7,3 +7,17 @@
  */
 
 // @todo
+
+/**
+ * Class foo
+ */
+class foo
+{
+    /**
+     *
+     */
+    function __construct()
+    {
+        // @todo add source
+    }
+}
