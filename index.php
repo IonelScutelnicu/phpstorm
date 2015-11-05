@@ -26,3 +26,7 @@ class foo
         // @todo add source
     }
 }
+
+
+
+$foo = new foo();
