@@ -7,3 +7,8 @@
  */
 
 // @todo
+
+function bar ()
+{
+    // @todo
+}
